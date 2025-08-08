@@ -1,0 +1,49 @@
+Unnamed: 0,bag_name,bag_type,length_cm,width_cm,height_cm,weight_kg,volume_cm3
+0,Chanel Mini,Mini,18.0,10.0,6.0,0.4,1080.0
+1,Chanel Mini,Mini,18.0,10.0,6.0,0.4,1080.0
+2,Chanel Mini,Mini,18.0,10.0,6.0,0.4,1080.0
+3,Jacquemus Le Chiquito,Mini,18.0,10.0,6.0,0.4,1080.0
+4,Jacquemus Le Chiquito,Mini,18.0,10.0,6.0,0.4,1080.0
+5,Jacquemus Le Chiquito,Mini,18.0,10.0,6.0,0.4,1080.0
+6,Chanel Small Flap,Small,24.0,15.0,8.0,0.6,2880.0
+7,Chanel Small Flap,Small,24.0,15.0,8.0,0.6,2880.0
+8,Chanel Small Flap,Small,24.0,15.0,8.0,0.6,2880.0
+9,LV Alma BB,Small,24.0,15.0,8.0,0.6,2880.0
+10,LV Alma BB,Small,24.0,15.0,8.0,0.6,2880.0
+11,LV Alma BB,Small,24.0,15.0,8.0,0.6,2880.0
+12,Gucci Mini Dionysus,Small,24.0,15.0,8.0,0.6,2880.0
+13,Gucci Mini Dionysus,Small,24.0,15.0,8.0,0.6,2880.0
+14,Gucci Mini Dionysus,Small,24.0,15.0,8.0,0.6,2880.0
+15,Chanel Medium to Maxi Flap,Medium,30.0,20.0,12.0,0.9,7200.0
+16,Chanel Medium to Maxi Flap,Medium,30.0,20.0,12.0,0.9,7200.0
+17,Chanel Medium to Maxi Flap,Medium,30.0,20.0,12.0,0.9,7200.0
+18,LV Speedy 25-35,Medium,30.0,20.0,12.0,0.9,7200.0
+19,LV Speedy 25-35,Medium,30.0,20.0,12.0,0.9,7200.0
+20,LV Speedy 25-35,Medium,30.0,20.0,12.0,0.9,7200.0
+21,Bottega Jodie,Medium,30.0,20.0,12.0,0.9,7200.0
+22,Bottega Jodie,Medium,30.0,20.0,12.0,0.9,7200.0
+23,Bottega Jodie,Medium,30.0,20.0,12.0,0.9,7200.0
+24,Dior Book Tote,Large,40.0,30.0,15.0,1.2,18000.0
+25,Dior Book Tote,Large,40.0,30.0,15.0,1.2,18000.0
+26,Dior Book Tote,Large,40.0,30.0,15.0,1.2,18000.0
+27,LV OnTheGo GM,Large,40.0,30.0,15.0,1.2,18000.0
+28,LV OnTheGo GM,Large,40.0,30.0,15.0,1.2,18000.0
+29,LV OnTheGo GM,Large,40.0,30.0,15.0,1.2,18000.0
+30,Goyard Artois,Large,40.0,30.0,15.0,1.2,18000.0
+31,Goyard Artois,Large,40.0,30.0,15.0,1.2,18000.0
+32,Goyard Artois,Large,40.0,30.0,15.0,1.2,18000.0
+33,Horizon 55,X-Large,55.0,40.0,25.0,2.5,55000.0
+34,Horizon 55,X-Large,55.0,40.0,25.0,2.5,55000.0
+35,Horizon 55,X-Large,55.0,40.0,25.0,2.5,55000.0
+36,Rimowa Cabin,X-Large,55.0,40.0,25.0,2.5,55000.0
+37,Rimowa Cabin,X-Large,55.0,40.0,25.0,2.5,55000.0
+38,Rimowa Cabin,X-Large,55.0,40.0,25.0,2.5,55000.0
+39,Dolce & Gabbana - Devotion Top-handle bag,Mini,19.05,12.954,4.318,0.8,1065.568837
+40,Louis Vuitton - Speedy Bandoulière 30 Damier A...,Customized,29.972,21.082,17.018,1.8,10753.15862
+41,LV Safran Leather Milla PM,Customized,23.0,14.0,21.0,1.8,6762.0
+42,Saint Laurent - CASSANDRE ENVELOPE CHAIN WALLE...,Mini,19.0,12.5,3.5,0.8,831.25
+43,LV mini cone decorated with the CASSANDRE,Mini,12.0,7.5,4.0,0.8,360.0
+44,LV The Speedy Bandoulière 20,Customized,20.574,11.938,13.462,0.8,3306.43429
+45,LV Pegase 55 leather travel bag,Customized,39.116,21.082,55.118,0.8,45452.70109
+46,Mini Devotion Leather Top Handle Bag,Customized,19.05,5.08,12.065,0.8,1167.57831
+47,Burberry - Lambskin Quilted Card Case With Det...,Customized,10.16,2.54,7.62,0.8,196.644768
